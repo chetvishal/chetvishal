@@ -1,4 +1,4 @@
-### Hi 👋, I'm Chet 
+### Hi 👋, I'm Vishal Singh 
 
 I am a driven software engineer and a life-long learner. My expertise is in front-end development, with a focus on React and javascript. I have worked on many projects where I have used various technologies and frameworks like jwt tokens, node.js, typescript, redux, and many more.
 
