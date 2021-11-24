@@ -7,7 +7,7 @@ I also have experience working on mobile apps using kotlin and react native.
 
 - 🌱 I’m currently learning ***Typescript***
 - 💬 Talk to me about ***ReactJs***, ***Javascript***, ***CSS***, ***ui/ux*** 
-- 📄 My Resume: [Resume](https://drive.google.com/file/d/1tsneCSq7S0QBYcOR1tltlRP3ZaDQar7m/view)
+- 📄 My Resume: [Resume](https://drive.google.com/file/d/1H4LtxySdQG7L5Q0ZGQtp4VKq6Qoev0Ud/view?usp=sharing)
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/chet-vishal-tunju-1056b7123/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chet-vishal" height="50" width="50" /></a>
