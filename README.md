@@ -5,7 +5,7 @@ I am a driven software engineer and a life-long learner. My expertise is in fron
 I also have experience working on mobile apps using kotlin and react native.
 
 
-- 🌱 I’m currently learning ***Typescript***
+- 🌱 I’m currently learning ***Typescript***, ***TailwindCSS***
 - 💬 Talk to me about ***ReactJs***, ***Javascript***, ***CSS***, ***ui/ux*** 
 - 📄 My Resume: [Resume](https://drive.google.com/file/d/1H4LtxySdQG7L5Q0ZGQtp4VKq6Qoev0Ud/view?usp=sharing)
 
