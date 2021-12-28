@@ -7,10 +7,10 @@ I also have experience working on mobile apps using kotlin and react native.
 
 - 🌱 I’m currently learning ***Typescript***, ***TailwindCSS***
 - 💬 Talk to me about ***ReactJs***, ***Javascript***, ***CSS***, ***ui/ux*** 
-- 📄 My Resume: [Resume](https://drive.google.com/file/d/1H4LtxySdQG7L5Q0ZGQtp4VKq6Qoev0Ud/view?usp=sharing)
+- 📄 My Resume: [Resume](https://drive.google.com/file/d/1mvRFfY2yWIc1ch9bT_NT7PjV6Otw5E6q/view?usp=sharing)
 
 ### Connect with me
-<a href="https://www.linkedin.com/in/chet-vishal-tunju-1056b7123/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chet-vishal" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/vishal-singh-1056b7123/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chet-vishal" height="50" width="50" /></a>
 
 ### GitHub Stats :
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetvishal&layout=compact&theme=radical" alt="chetvishal" /></p>
