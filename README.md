@@ -1,8 +1,6 @@
 ### Hi 👋, I'm Vishal Singh 
 
-I am a driven software engineer and a life-long learner. My expertise is in front-end development, with a focus on React and javascript. I have worked on many projects where I have used various technologies and frameworks like jwt tokens, node.js, typescript, redux, and many more.
-
-I also have experience working on mobile apps using kotlin and react native.
+I'm a software developer with a principled approach to front-end engineering. I think in component systems, care deeply about code quality and user experience, and bring the kind of design sensibility that makes the difference between an interface that works and one that feels right.
 
 <!--
 **chetvishal/chetvishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
